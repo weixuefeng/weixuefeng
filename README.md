@@ -11,25 +11,7 @@ Hey there! :smile:
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=weixuefeng&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 I am a **Full Stack Web Developer** who has been developing web and mobile
-sites and applications for more than 10 years, across virtually every industry.
-
-And I am a highly professional **Blockchain Developer** with core expertise in developing DEX, NFT, DEFI, Bridge as well as wallet applications.
-
-Also I am an **AWS Architect** who is professional in all kinds of Amazon services such as Amazon
-Lambda, Amazon Amplify, Amazon Cognito, Amazon DynamoDB, Amazon ElasticSearch, Amazon
-Personalize and etc.
-
-Whether you are starting a new project from the ground up or just need existing maintenance to an
-existing product, I can work on every aspect of your project (from front-end design to back-end
-integration), or just certain parts, based on your specific needs.
-
-My main goals when working with you are simple:
-- Clear and consistent communication. I make myself available during all waking hours to provide
-status updates, answer and ask questions, and discuss the project. Openness, trust, and friendliness
-have been the keys to success in my work.
-- Complete satisfaction with the end result. I treat each project as unique and with its own set of
-needs. I will work with you along every step of the way to ensure that there are no surprises, and
-only satisfaction.
+sites and applications for more than 6 years, across virtually every industry.
 
 
 ## My Technologies :books:
