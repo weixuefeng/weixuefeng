@@ -25,6 +25,7 @@ sites and applications for more than 6 years, across virtually every industry.
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-%26482C34?style=flat-square&logo=tailwindcss)
 ![Bootstrap](http://img.shields.io/badge/-Bootstrap-CC0000?style=flat-square&logo=bootstrap)
 ![jQuery](http://img.shields.io/badge/-jQuery-CC0000?style=flat-square&logo=jquery)
+![Android](https://img.shields.io/badge/-android-brightgreen)
 
 
 #### BackEnd:
